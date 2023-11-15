@@ -1,17 +1,7 @@
 Project Structure:
 
-my-node-react-app/
-├── backend/
-│   ├── node_modules/
-│   ├── package.json
-│   ├── server.js
-├── frontend/
-│   ├── node_modules/
-│   ├── package.json
-│   ├── public/
-│   ├── src/
-├── package.json
-├── .htaccess
+![Uploading image.png…]()
+
 
 Start the backend and frontend servers separately:
     Backend: In the backend folder, run node server.js.
