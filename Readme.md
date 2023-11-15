@@ -1,8 +1,5 @@
-![image](https://github.com/ThakurGumansingh/node/assets/44533363/bb2bc347-d2c6-4c05-a22c-c21e2247a127)Project Structure:
-
-
-![Uploading image.png…]()
-
+Project Structure:
+![image](https://github.com/ThakurGumansingh/node/assets/44533363/bb2bc347-d2c6-4c05-a22c-c21e2247a127)
 
 Start the backend and frontend servers separately:
     Backend: In the backend folder, run node server.js.
